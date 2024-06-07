@@ -172,3 +172,4 @@ test.py
 geckodriver.log
 *.txt
 *.exe
+.idea/*
